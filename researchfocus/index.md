@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /researchfocus/
 title: Research Focus
 tagline: Bioinfo at ESALQ/USP
 tags: [researchfocus, bioinfo]

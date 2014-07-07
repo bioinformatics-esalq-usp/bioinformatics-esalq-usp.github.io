@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /contact/
 title: Contact Information
 tagline: Bioinfo at ESALQ/USP
 tags: [contact, bioinfo]

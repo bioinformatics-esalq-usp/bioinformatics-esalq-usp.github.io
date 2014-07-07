@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /people/
 title: People
 tagline: Bioinfo at ESALQ/USP
 tags: [people, bioinfo]

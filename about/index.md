@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /about/
 title: About our group
 tagline: Bioinfo at ESALQ/USP
 tags: [about, bioinfo]
