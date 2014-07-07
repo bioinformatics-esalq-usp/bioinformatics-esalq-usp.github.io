@@ -3,13 +3,6 @@ layout: default
 title: Home
 ---
 
-<div>
-<style>
-h1 { text-align: center }
-</style>
-<h1> BIOINFORMATICS APPLIED TO BIOENERGY </h1>
-</div>
-
 <section class="archive">
 {% for post in site.posts %}
 {% unless post.next %}

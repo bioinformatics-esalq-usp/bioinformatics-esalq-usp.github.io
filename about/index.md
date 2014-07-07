@@ -6,7 +6,7 @@ tags: [about, bioinfo]
 modified: 07-07-2014
 ---
 
-The Bioinformatics group at the Luiz de Queiroz College of Agriculture, University of So Paulo, began its activities on October 2013. 
+The Bioinformatics group at the Luiz de Queiroz College of Agriculture, University of São Paulo, began its activities on October 2013. 
 
 Our new group is focused on Bioinformatics applied to Bioenergy, including important crops for biofuel production in Brazil and worldwide. We are currently working on sugarcane and high biomass sorghum breeding. We focus on facing challenges that cannot be solved by traditional breeding alone, while keeping in mind that the long-term goal is to help breeding programs.
 

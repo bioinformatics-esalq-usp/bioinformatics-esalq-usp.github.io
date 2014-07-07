@@ -6,7 +6,7 @@ url: bioinformatics-esalq-usp.github.io
 baseurl: /project-name
 
 redcarpet:
-  extensions: [strikethrough, tables]
+  extensions: [strikethrough, tables, hard_wrap]
 
 sass:
   sass_dir: public/css
