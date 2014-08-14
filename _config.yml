@@ -3,7 +3,6 @@ highlighter: null
 permalink: /:title
 
 url: bioinformatics-esalq-usp.github.io
-baseurl: /project-name
 
 redcarpet:
   extensions: [strikethrough, tables, hard_wrap]
