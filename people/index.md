@@ -14,8 +14,10 @@ Prof. Dr. Gabriel Rodrigues Alves Margarido
 M.S. Students
 -------------
 - Amandar Avelar de Oliveira
+- Leonardo Sartori Menegatto
 - Fernanda Zatti Barreto (co-supervised)
 
 Undergraduate Students
 ----------------------
 - Vinicius de Nicolai
+- Fernando Henrique Correr
